@@ -1,0 +1,21 @@
+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
+
+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
+
+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
+
+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
+
+Empty_data = {
+                "start_location": 'none',
+                "end_location": 'none',
+                "date": 'none',
+                "travelling": 'none',
+                "lodging": 'none',
+                "food": 'none',
+                "maintenance": 'none',
+                "laundry": 'none',
+                "entertainment": 'none',
+                "mode": 'none',
+                "local": 'none'
+            }
