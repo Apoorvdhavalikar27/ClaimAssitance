@@ -7,10 +7,7 @@
 # from dateutil import parser
 # from datetime import datetime
 #
-# # API key
-# # openai.api_key = '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'
-# # openai.api_key = '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'
-#
+
 # nlp = spacy.load("en_core_web_sm")
 # engine = pyttsx3.init('sapi5')
 # voices = engine.getProperty('voices')
@@ -188,15 +185,6 @@ import json
 from dateutil import parser
 from datetime import datetime, timedelta
 
-# Free_API_key
-openai.api_key = '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'
-# openai.api_key = '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'
-
-# chatbot model key
-# openai.api_key = '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'
-
-# TextGenration model key
-# openai.api_key = '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'
 
 nlp = spacy.load("en_core_web_sm")
 engine = pyttsx3.init('sapi5')
